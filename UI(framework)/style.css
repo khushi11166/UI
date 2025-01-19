@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    height: 300vh;
+}
+.card{
+    height: 400px;
+    
+}
+p{
+    font-size: 13px;
+}
+.line{
+    height: 2px;
+    width: 60vh;
+    background-color: rgb(255, 193, 23);
+    margin-left:70vh ;
+    
+    
+}
+#btn1{
+    margin-left: 90vh;
+    margin-top: 5vh;
+}
+h1{
+   color: rgb(230, 30, 30);
+    
+}
+h4{
+    color: rgb(11, 1, 44);
+}
